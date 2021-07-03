@@ -1,1 +1,1 @@
-# Discord-redirect
+# 🔗 Redirecting to YAY-ADV Official Discord
