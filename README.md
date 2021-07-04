@@ -8,4 +8,4 @@ This repository is created for redirecting to our Official Discord server. By us
 
 ### Is YAY-ADV Safe to use?
 
-Yes, it is very secure and safe to use and trusted. YAY-ADV will never save your personal informations or anything like that. Also it is clean from bad words and NSFW contents. If you got any vanity URL contains bad words or NSFW content please report to remove it or ban it from usage. YAY-ADV is never grab your IP or even make that forever. So, it is 100% safe.
+Yes, it is very secure and safe to use and trusted. YAY-ADV will never save your personal informations or anything like that. Also it is clean from bad words and NSFW contents. If you got any vanity URL contains bad words or NSFW content please report to remove it or ban it from usage. YAY-ADV is never grabbing your IP or even make that forever. So, it is 100% safe.
